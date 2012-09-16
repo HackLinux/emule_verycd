@@ -1,0 +1,742 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>{26a9550c-4315-4f18-9e21-79cc920343cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ad.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ae.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\af.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ag.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ai.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\al.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\am.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\an.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ao.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ar.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\as.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\at.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\au.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\aw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\az.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ba.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bb.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bd.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\be.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bi.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bj.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bo.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\br.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bs.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\by.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\bz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ca.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cd.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ch.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ci.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ck.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\co.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cs.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cv.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cx.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cy.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\cz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\de.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\dj.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\dk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\dm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\do.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\dz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ec.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ee.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\eg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\eh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\er.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\es.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\et.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fi.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fj.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fo.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\fr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ga.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gb.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gd.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ge.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gi.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gp.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gq.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gs.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\gy.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\hk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\hn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\hr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ht.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\hu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\id.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ie.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\il.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\im.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\in.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\io.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\iq.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ir.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\is.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\it.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\je.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\jm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\jo.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\jp.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ke.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ki.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\km.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kp.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ky.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\kz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\la.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lb.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\li.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ls.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\lv.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ly.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ma.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\md.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ml.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mo.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mp.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mq.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ms.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mv.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mx.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\my.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\mz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\na.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ne.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ng.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ni.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\no.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\not.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\np.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\nz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\om.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pa.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pe.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ph.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ps.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\pw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\py.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\qa.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ro.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ru.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\rw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sa.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sb.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sd.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\se.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sh.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\si.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\so.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\st.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\su.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sv.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sy.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\sz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\td.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\th.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tj.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tl.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\to.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tr.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ts.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tt.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tv.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tw.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\tz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ua.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ug.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\uk.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\um.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\us.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\uy.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\uz.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\va.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\vc.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ve.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\vg.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\vi.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\vn.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\vu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\wf.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ws.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\ye.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\yu.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\za.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\zm.ico">
+      <Filter>res</Filter>
+    </None>
+    <None Include="res\zw.ico">
+      <Filter>res</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="flag.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+</Project>
